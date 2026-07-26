@@ -46,7 +46,7 @@ Aspiring data analysts often don't know which skill to prioritize learning first
 
 ## 📊 Dashboard Preview
 
-*(Insert your Power BI dashboard screenshot here — e.g. image/dashboard.png)*
+![Dashboard](dashboard.png)
 
 ---
 
