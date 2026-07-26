@@ -1,0 +1,263 @@
+title,company,location,avg_salary,skill
+Data Analyst,SkySun,india,750000.0,excel
+Data Analyst,Cloudester Software LLP,"sevasi, vadodara",750000.0,excel
+Data Analyst,Rentomojo,"bangalore, karnataka",750000.0,sql
+Data Analyst,Proof of Skill,"andheri, mumbai",1200000.0,sql
+Data Analyst,Proof of Skill,"andheri, mumbai",1200000.0,excel
+Data Analyst,Proof of Skill,"andheri, mumbai",1200000.0,google sheets
+Data Analyst,Proof of Skill,"andheri, mumbai",1200000.0,data visualization
+Data Analyst,Sia,"mumbai, maharashtra",750000.0,power bi
+Data Analyst,Aliqan Services,"chennai, tamil nadu",750000.0,data visualization
+Data Analyst,Aliqan Services,"gurgaon, haryana",750000.0,data visualization
+Data Analyst,Leading Client,"hyderabad, telangana",750000.0,sql
+Data Analyst,Leading Client,"hyderabad, telangana",750000.0,etl
+Data Analyst,Careernet,india,750000.0,python
+Data Analyst,Careernet,india,750000.0,sql
+Data analyst,RECEX,"kolkata, west bengal",750000.0,data visualization
+Data Analyst,Fatakpay,india,1150000.0,excel
+Data Analyst,Techwave Consulting India Private,india,750000.0,excel
+Data Analyst,NAVVYASA CONSULTING PRIVATE LIMITED,india,750000.0,python
+Data Analyst,NAVVYASA CONSULTING PRIVATE LIMITED,india,750000.0,sql
+Data Analyst,Reality Premedia Services Pvt Ltd,"pune, maharashtra",400000.0,python
+Data Analyst,Reality Premedia Services Pvt Ltd,"pune, maharashtra",400000.0,sql
+Data Analyst,Reality Premedia Services Pvt Ltd,"pune, maharashtra",400000.0,tableau
+Data Analyst,RegisterKaro,india,700000.0,python
+Data Analyst,RegisterKaro,india,700000.0,data visualization
+Data Analyst,Indium Software,india,525000.0,python
+Data Analyst,Indium Software,india,525000.0,sql
+Data Analyst,EWU,"coimbatore, tamil nadu",550000.0,tableau
+Data Analyst,EWU,"coimbatore, tamil nadu",550000.0,data visualization
+Data Analyst,Vikash Technologies,"delhi, india",1700000.0,python
+Data Analyst,Vikash Technologies,"delhi, india",1700000.0,sql
+Data Analyst,Vikash Technologies,"delhi, india",1700000.0,azure
+Data Analyst,Vikash Technologies,"delhi, india",1700000.0,etl
+data analyst,Epik Solutions,india,375000.0,communication
+Data Analyst,Beworld web services,"telangana, india",750000.0,sql
+Data Analyst,Syrencloud,"hyderabad, telangana",400000.0,sql
+Data Analyst,RECEX,"delhi, india",750000.0,sql
+Data Analyst,RECEX,"delhi, india",750000.0,excel
+Data Analyst,RECEX,"delhi, india",750000.0,power bi
+Data Analyst,RECEX,"delhi, india",750000.0,data visualization
+Data Analyst,RECEX,"delhi, india",750000.0,communication
+Data Analyst,Kotak Life,"gurgaon, haryana",750000.0,sql
+Data Analyst,Kotak Life,"gurgaon, haryana",750000.0,sas
+Data Analyst,Kotak Life,"gurgaon, haryana",750000.0,vba
+Data Analyst,Fragma Data Systems,india,700000.0,sql
+Data Analyst,Fragma Data Systems,india,700000.0,spark
+Data Analyst,Fragma Data Systems,india,700000.0,azure
+Data Analyst,Fragma Data Systems,india,700000.0,data visualization
+Data Analyst,Not Specified,"vadodara, gujarat",750000.0,communication
+Data analyst,Sadup Softech,"bangalore, karnataka",1350000.0,python
+Data analyst,Sadup Softech,"bangalore, karnataka",1350000.0,sql
+Data analyst,Sadup Softech,"bangalore, karnataka",1350000.0,excel
+Data analyst,Sadup Softech,"bangalore, karnataka",1350000.0,spark
+Data analyst,Sadup Softech,"bangalore, karnataka",1350000.0,hadoop
+Data Analyst,Jetking Technologies Private Limited,"noida, ghaziabad",22500.0,sql
+Data Analyst,Jetking Technologies Private Limited,"noida, ghaziabad",22500.0,excel
+Data Analyst,Jetking Technologies Private Limited,"noida, ghaziabad",22500.0,tableau
+Data Analyst,Jetking Technologies Private Limited,"noida, ghaziabad",22500.0,power bi
+Data Analyst,Jetking Technologies Private Limited,"noida, ghaziabad",22500.0,statistics
+Data Analyst,Jetking Technologies Private Limited,"noida, ghaziabad",22500.0,data visualization
+Data Analyst,Jetking Technologies Private Limited,"noida, ghaziabad",22500.0,communication
+Data Analyst,Wissen Technology,"bangalore, karnataka",750000.0,python
+Data Analyst,Wissen Technology,"bangalore, karnataka",750000.0,sql
+Data Analyst,Wissen Technology,"bangalore, karnataka",750000.0,pandas
+Data Analyst,Wissen Technology,"bangalore, karnataka",750000.0,numpy
+Data Analyst,EXL,"pune, maharashtra",750000.0,python
+Data Analyst,EXL,"pune, maharashtra",750000.0,sql
+Data Analyst,EXL,"pune, maharashtra",750000.0,spark
+Data Analyst,EXL,"pune, maharashtra",750000.0,hadoop
+Data Analyst,Webkit24,"kolkata, west bengal",750000.0,python
+Data Analyst,Webkit24,"kolkata, west bengal",750000.0,sql
+Data Analyst,Webkit24,"kolkata, west bengal",750000.0,excel
+Data Analyst,Webkit24,"kolkata, west bengal",750000.0,tableau
+Data Analyst,Webkit24,"kolkata, west bengal",750000.0,power bi
+Data Analyst,Webkit24,"kolkata, west bengal",750000.0,statistics
+Data Analyst,Webkit24,"kolkata, west bengal",750000.0,etl
+Data Analyst,Webkit24,"kolkata, west bengal",750000.0,data visualization
+Data Analyst,Webkit24,"kolkata, west bengal",750000.0,communication
+Data Analyst,Webkit24,"pune, maharashtra",750000.0,python
+Data Analyst,Webkit24,"pune, maharashtra",750000.0,sql
+Data Analyst,Webkit24,"pune, maharashtra",750000.0,excel
+Data Analyst,Webkit24,"pune, maharashtra",750000.0,tableau
+Data Analyst,Webkit24,"pune, maharashtra",750000.0,power bi
+Data Analyst,Webkit24,"pune, maharashtra",750000.0,statistics
+Data Analyst,Webkit24,"pune, maharashtra",750000.0,etl
+Data Analyst,Webkit24,"pune, maharashtra",750000.0,data visualization
+Data Analyst,Webkit24,"pune, maharashtra",750000.0,communication
+Data Analyst,Colan Infotech Private Limited,"chennai, tamil nadu",750000.0,excel
+Data Analyst,Colan Infotech Private Limited,"chennai, tamil nadu",750000.0,tableau
+Data Analyst,Colan Infotech Private Limited,"chennai, tamil nadu",750000.0,power bi
+Data Analyst,Colan Infotech Private Limited,"chennai, tamil nadu",750000.0,communication
+Data Analyst,EXL,"bangalore, karnataka",750000.0,sql
+Data Analyst,EXL,"bangalore, karnataka",750000.0,tableau
+Data Analyst,EXL,"bangalore, karnataka",750000.0,power bi
+Data Analyst,Awign,"bangalore, karnataka",550000.0,google sheets
+Data Analyst,Align Technology,"delhi, india",750000.0,data visualization
+Data Analyst,Appitsimple infotek Pvt. Ltd.,india,200000.0,excel
+Data Analyst,Novel Office,"kolkata, west bengal",750000.0,excel
+Data Analyst,Novel Office,"hyderabad, telangana",750000.0,excel
+Data Analyst,Extramarks,"noida, ghaziabad",500000.0,python
+Data Analyst,Extramarks,"noida, ghaziabad",500000.0,sql
+Data Analyst,Extramarks,"noida, ghaziabad",500000.0,excel
+Data Analyst,Extramarks,"noida, ghaziabad",500000.0,statistics
+Data Analyst,Topcoder,"noida, ghaziabad",750000.0,etl
+Data Analyst,Wipzo Systech Private Limited,"pune, maharashtra",750000.0,sql
+Data Analyst,Wipzo Systech Private Limited,"pune, maharashtra",750000.0,communication
+Data Analyst,Jobgether,india,750000.0,excel
+Data Analyst,Equitas Small Finance Bank,india,750000.0,sql
+Data Analyst,Equitas Small Finance Bank,india,750000.0,excel
+Data Analyst,Equitas Small Finance Bank,india,750000.0,power bi
+Data Analyst,Technogen,"bangalore, karnataka",750000.0,hadoop
+Data Analyst,Technogen,"bangalore, karnataka",750000.0,data visualization
+Data Analyst,Space Stem,"ahmedabad, gujarat",750000.0,sql
+Data Analyst,Space Stem,"ahmedabad, gujarat",750000.0,excel
+Data Analyst,Space Stem,"ahmedabad, gujarat",750000.0,etl
+Data Analyst,Mantras2Success,"ahmedabad, gujarat",750000.0,excel
+Data Analyst,Mantras2Success,"ahmedabad, gujarat",750000.0,google sheets
+Data Analyst,Delhivery,"gurgaon, haryana",750000.0,python
+Data Analyst,Delhivery,"gurgaon, haryana",750000.0,sql
+Data Analyst,Delhivery,"gurgaon, haryana",750000.0,tableau
+Data Analyst,Delhivery,"gurgaon, haryana",750000.0,power bi
+Data Analyst,Delhivery,"gurgaon, haryana",750000.0,pandas
+Data Analyst,Delhivery,"gurgaon, haryana",750000.0,numpy
+Data Analyst,CONTUS TECH,"chennai, tamil nadu",750000.0,sql
+Data Analyst,CONTUS TECH,"chennai, tamil nadu",750000.0,communication
+Data Analyst,Cohere Health,"hyderabad, telangana",750000.0,excel
+Data Analyst,Bajaj Finance,india,750000.0,sql
+Data Analyst,Bajaj Finance,india,750000.0,spark
+Data Analyst,Falcon Autotech,"noida, ghaziabad",550000.0,sql
+Data Analyst,Falcon Autotech,"noida, ghaziabad",550000.0,excel
+Data Analyst,Falcon Autotech,"noida, ghaziabad",550000.0,tableau
+Data Analyst,Falcon Autotech,"noida, ghaziabad",550000.0,power bi
+Data Analyst,Falcon Autotech,"noida, ghaziabad",550000.0,google sheets
+Data Analyst,Falcon Autotech,"noida, ghaziabad",550000.0,communication
+Data Analyst,Marktine,"bangalore, karnataka",750000.0,excel
+Data Analyst,Marktine,"bangalore, karnataka",750000.0,tableau
+Data Analyst,Marktine,"bangalore, karnataka",750000.0,power bi
+Data Analyst,Marktine,"bangalore, karnataka",750000.0,data visualization
+Data Analyst,QAgile Services,india,400000.0,sql
+Data Analyst,QAgile Services,india,400000.0,power bi
+Data Analyst,QAgile Services,india,400000.0,spark
+Data Analyst,QAgile Services,india,400000.0,etl
+Data Analyst,Jobdost,"mangalore, dakshin kannada",900000.0,sql
+Data Analyst,Indium Software,"bangalore, karnataka",800000.0,python
+Data Analyst,Indium Software,"bangalore, karnataka",800000.0,sql
+Data Analyst,Indium Software,"bangalore, karnataka",800000.0,statistics
+Data Analyst,Indium Software,"bangalore, karnataka",800000.0,sas
+Data Analyst,Indium Software,"bangalore, karnataka",800000.0,communication
+Data Analyst,Millions Advisory,"pune, maharashtra",1100000.0,python
+Data Analyst,Millions Advisory,"pune, maharashtra",1100000.0,sql
+Data Analyst,Millions Advisory,"pune, maharashtra",1100000.0,aws
+Data Analyst,Millions Advisory,"pune, maharashtra",1100000.0,azure
+Data Analyst,Millions Advisory,"pune, maharashtra",1100000.0,gcp
+Data Analyst,Azent Overseas,"mumbai, maharashtra",350000.0,excel
+Data Analyst,Impact Guru,"mumbai, maharashtra",600000.0,excel
+Data Analyst,Impact Guru,"mumbai, maharashtra",600000.0,communication
+Data Analyst,Srijan Technologies,india,600000.0,etl
+Data Analyst,MedCords,"kota, rajasthan",125000.0,python
+Data Analyst,MedCords,"kota, rajasthan",125000.0,excel
+Data Analyst,MedCords,"kota, rajasthan",125000.0,communication
+Data Analyst,Ingrainhub,"bangalore, karnataka",750000.0,python
+Data Analyst,Ingrainhub,"bangalore, karnataka",750000.0,sql
+Data Analyst,Ingrainhub,"bangalore, karnataka",750000.0,excel
+Data Analyst,Ingrainhub,"bangalore, karnataka",750000.0,r programming
+Data Analyst,Dotball Interactive Private Limited,"bangalore, karnataka",450000.0,python
+Data Analyst,Dotball Interactive Private Limited,"bangalore, karnataka",450000.0,sql
+Data Analyst,Dotball Interactive Private Limited,"bangalore, karnataka",450000.0,excel
+Data Analyst,Dotball Interactive Private Limited,"bangalore, karnataka",450000.0,communication
+Data Analyst,Grubbrr systems Pvt Ltd,"ahmedabad, gujarat",600000.0,google sheets
+Data Analyst,zyoin,"bangalore, karnataka",1300000.0,sql
+Data Analyst,CIEL HR Services,"bangalore, karnataka",750000.0,sql
+Data Analyst,CIEL HR Services,"bangalore, karnataka",750000.0,excel
+Data Analyst,Beauto Systems Private Limited,india,300000.0,python
+Data Analyst,Beauto Systems Private Limited,india,300000.0,sql
+Data Analyst,Beauto Systems Private Limited,india,300000.0,excel
+Data Analyst,Beauto Systems Private Limited,india,300000.0,aws
+Data Analyst,Beauto Systems Private Limited,india,300000.0,data visualization
+Data Analyst,Beauto Systems Private Limited,india,300000.0,communication
+Data Analyst,Yulu Bikes,"bangalore, karnataka",950000.0,python
+Data Analyst,Yulu Bikes,"bangalore, karnataka",950000.0,sql
+Data Analyst,Yulu Bikes,"bangalore, karnataka",950000.0,pandas
+Data Analyst,Yulu Bikes,"bangalore, karnataka",950000.0,numpy
+Data Analyst,Talent Pro,"mumbai, maharashtra",1000000.0,sql
+Data Analyst,Talent Pro,"mumbai, maharashtra",1000000.0,excel
+Data Analyst,Talent Pro,"mumbai, maharashtra",1000000.0,communication
+Data Analyst,Peak Hire Solutions,"bangalore, karnataka",950000.0,sql
+Data Analyst,Peak Hire Solutions,"bangalore, karnataka",950000.0,excel
+Data Analyst,Peak Hire Solutions,"bangalore, karnataka",950000.0,communication
+Data Analyst,Lloyds Bank,india,750000.0,sql
+Data Analyst,Lloyds Bank,india,750000.0,etl
+Data Analyst,EXL,india,750000.0,sql
+Data Analyst,Guidehouse,india,750000.0,excel
+Data Analyst,Guidehouse,india,750000.0,power bi
+Data Analyst,Caratlane,"pune, maharashtra",750000.0,excel
+Data Analyst,Caratlane,"pune, maharashtra",750000.0,tableau
+Data Analyst,Caratlane,"pune, maharashtra",750000.0,vba
+Data Analyst,Techcom Solutions India Private Limited,"bangalore, karnataka",750000.0,python
+Data Analyst,Techcom Solutions India Private Limited,"bangalore, karnataka",750000.0,sql
+Data Analyst,Techcom Solutions India Private Limited,"bangalore, karnataka",750000.0,excel
+Data Analyst,Techcom Solutions India Private Limited,"bangalore, karnataka",750000.0,tableau
+Data Analyst,Techcom Solutions India Private Limited,"bangalore, karnataka",750000.0,power bi
+Data Analyst,Techcom Solutions India Private Limited,"bangalore, karnataka",750000.0,statistics
+Data Analyst,Techcom Solutions India Private Limited,"bangalore, karnataka",750000.0,spark
+Data Analyst,Techcom Solutions India Private Limited,"bangalore, karnataka",750000.0,google sheets
+Data Analyst,Techcom Solutions India Private Limited,"bangalore, karnataka",750000.0,looker
+Data Analyst,Cognizant,"kolkata, west bengal",750000.0,python
+Data Analyst,Cognizant,"kolkata, west bengal",750000.0,sql
+Data Analyst,Cognizant,"kolkata, west bengal",750000.0,machine learning
+Data Analyst,Tech Smcsquared Gcc,"bangalore, karnataka",750000.0,sql
+Data Analyst,Recro,"bangalore, karnataka",750000.0,python
+Data Analyst,Recro,"bangalore, karnataka",750000.0,sql
+Data Analyst,Recro,"bangalore, karnataka",750000.0,communication
+Data Analyst,Phenom People,"hyderabad, telangana",750000.0,sql
+Data Analyst,Phenom People,"hyderabad, telangana",750000.0,looker
+Data Analyst,Acura Solution,"mumbai, maharashtra",750000.0,python
+Data Analyst,Acura Solution,"mumbai, maharashtra",750000.0,sql
+Data Analyst,Acura Solution,"mumbai, maharashtra",750000.0,tableau
+Data Analyst,Acura Solution,"mumbai, maharashtra",750000.0,power bi
+Data Analyst,Acura Solution,"mumbai, maharashtra",750000.0,sas
+Data Analyst,Acura Solution,"mumbai, maharashtra",750000.0,data visualization
+Data Analyst,Hitachi,"chennai, tamil nadu",750000.0,power bi
+Data Analyst,Hitachi,india,750000.0,sql
+Data Analyst,Hitachi,india,750000.0,power bi
+Data Analyst,MM Staffing & Career Consultants,"mumbai, maharashtra",750000.0,excel
+Data Analyst,MM Staffing & Career Consultants,"mumbai, maharashtra",750000.0,tableau
+Data Analyst,MM Staffing & Career Consultants,"mumbai, maharashtra",750000.0,vba
+Data Analyst,Not Specified,"gurgaon, haryana",750000.0,etl
+Data Analyst,Not Specified,"navi mumbai, maharashtra",750000.0,python
+Data Analyst,Not Specified,"navi mumbai, maharashtra",750000.0,sql
+HR Data Analyst,"Opalforce, Inc.","naduvathi, bangalore",750000.0,excel
+Statistician/Data Analyst,Two95 International Inc.,india,750000.0,statistics
+Data Analyst - Remote,YO AI Labs,"bangalore, karnataka",750000.0,excel
+Sr. Data Analyst,Weekday AI,india,750000.0,python
+Sr. Data Analyst,Weekday AI,india,750000.0,sql
+Senior Data Analyst,Sia,"mumbai, maharashtra",750000.0,power bi
+Senior Data Analyst,Sia,"mumbai, maharashtra",750000.0,etl
+Data Analyst (OAC),Sopra Steria,"noida, ghaziabad",750000.0,tableau
+Data Analyst (OAC),Sopra Steria,"noida, ghaziabad",750000.0,power bi
+Data Analyst (OAC),Sopra Steria,"noida, ghaziabad",750000.0,data visualization
+Senior Data Analyst,Aliqan Services,"bangalore, karnataka",750000.0,python
+Senior Data Analyst,Aliqan Services,"bangalore, karnataka",750000.0,spark
+Senior Data Analyst,Aliqan Services,"bangalore, karnataka",750000.0,azure
+Healthcare Data Analyst,SHM ENTERPRISES,india,750000.0,data visualization
+Data Analyst Trainee,Lead India,"bangalore, karnataka",750000.0,azure
+Data Analyst Intern,Optimspace,"pune, maharashtra",750000.0,data visualization
+Sr.Data Analyst,HCL Technologies Limited,"hyderabad, telangana",750000.0,excel
+Sr.Data Analyst,HCL Technologies Limited,"hyderabad, telangana",750000.0,data visualization
+Sr.Data Analyst,HCL Technologies Limited,"hyderabad, telangana",750000.0,communication
+Sr Data Analyst,Jobizo,india,850000.0,sql
+Senior Data Analyst,Capco,india,750000.0,python
+Senior Data Analyst,Capco,india,750000.0,spark
+Senior Data Analyst,Capco,"bangalore, karnataka",750000.0,python
+Senior Data Analyst,Capco,"bangalore, karnataka",750000.0,spark
+"Data Analyst, Senior",Infor,"pune, maharashtra",750000.0,excel
+Lead Data Analyst,EXL,"pune, maharashtra",750000.0,python
+Lead Data Analyst,EXL,"pune, maharashtra",750000.0,sql
+Lead Data Analyst,EXL,"pune, maharashtra",750000.0,spark
+Senior Data Analyst,EXL,"bangalore, karnataka",750000.0,sql
+Senior Data Analyst,EXL,"bangalore, karnataka",750000.0,tableau
+Senior Data Analyst,EXL,"bangalore, karnataka",750000.0,power bi
+Sr. Data Analyst,OnActive,india,2250000.0,sql
+Sr. Data Analyst,OnActive,india,2250000.0,power bi
+Staff data analyst,A3R0-GTCI,india,750000.0,data visualization
